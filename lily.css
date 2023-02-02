@@ -48,14 +48,14 @@ body {
     width: 15cm;
     height: 5cm;
     border: 2px solid white;
-    background-image: url("image/canada.png");
+    background-image: url("images/canada.png");
     margin: auto;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #jb:hover {
-    background-image: url("image/lilyreal.jfif");
+    background-image: url("images/lilyreal.jfif");
 
 }
 
