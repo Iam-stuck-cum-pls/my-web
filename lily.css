@@ -1,0 +1,74 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: cutie;
+    font-size: 50px;
+    background-image: url("image/julian-paefgen-uxU_jyu9e7U-unsplash.jpg");
+    background-size: cover;
+    color: aliceblue;
+    /* background: lightpink; */
+}
+
+@font-face {
+    font-family: cutie;
+    src: url(LoveOfLoveByOubyc-oROq.ttf);
+}
+#lily- {
+    width: 7cm;
+    height: 5cm;
+    border: 2px solid violet;
+    border-radius: 50%;
+    margin-bottom: 1.5cm;
+}
+
+#slogon {
+    background: lightpink;
+    padding: 10px 5px; 
+    margin: 5px 0 10px 0;
+    text-shadow: 0 0 5px lightpink;
+    border-radius: 5px;
+}
+
+#birthday {
+    background: lightpink;
+    padding: 10px 5px; 
+    margin: 5px 0 10px 0;
+    text-shadow: 0 0 5px lightpink;
+    border-radius: 5px;
+    margin: 0 0 50px 0;
+}
+#header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.map {
+    width: 15cm;
+    height: 5cm;
+    border: 2px solid white;
+    background-image: url("image/canada.png");
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#jb:hover {
+    background-image: url("image/lilyreal.jfif");
+
+}
+
+#footer {
+    width: 15cm;
+    margin: 2cm auto 1cm;
+    background-image: linear-gradient(to right, #4a95b2,lightblue);
+    border: none;
+    padding: 0;
+    font-style: italic;
+    color: lightsalmon;
+    
+}
+
+
+
